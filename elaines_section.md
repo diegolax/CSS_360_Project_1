@@ -41,3 +41,19 @@ each part of this software depends on the other. Incremental model is best becau
 once you've programmed the start of car tracking, then it could add traffic sensors,
 read the data, and from there, create billboards.
 
+## 6. Education Game
+
+I believe that the **Agile Model** is the best fit for creating a game
+for educational purposes because they need the game quick. It involves
+evolving requirements so it needs to be flexible. This is also perfect 
+because it requires user feedback which is why one employee is going around
+participating in different confrences and is a marketing 
+representative for customers.
+
+## 7. Global Health
+
+I believe that the **Spiral Model** is the best fit because as a small 
+start-up company, there could be risks that could possibly ruin chances to
+continue recieving funds. This mean identifying any risks possible early and
+tackling them before getting too far. Protoyping for their software could
+possibly be helpful for creating a successful software from the start.
