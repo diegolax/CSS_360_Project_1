@@ -15,5 +15,18 @@ Work with outside companies is also a possibility, so clear and unchanging requi
 
 ## #4: Department of Transportation
 The **incremental** model would work best, because the deliverable is a web-based application that can be updated easily.
-The requirments are very clear, and unlikely to change, so the agile model is not necessary.
+The requirments are very clear, and unlikely to change, so the agile model is a poor fit.
 Ongoing work with outside teams is not expected, so coordination will not be a problem.
+
+## #5: Reducing Traffic
+The **waterfall** model would work best, because the project involves embedded systems such as trackers and digital billboards.
+In addition, the project incorporates multiple types of devices and systems, so managing complexity is necessary.
+
+## #6: Educational Game
+The **agile** model is best, because the project requirements are expected to change, and customers desire rapid development.
+Also, the project involves a small team, which is ideal for the agile model.
+
+## #7: Global Health
+The **incremental model** is ideal, because the product can be delivered in phases to gain funding for later phases.
+Customer requirements are deliberately vague, so internal requirements can evolve over time.
+The agile model should be avoided, since new, less experienced hires might struggle with it.
