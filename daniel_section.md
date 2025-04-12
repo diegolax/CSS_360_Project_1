@@ -8,7 +8,7 @@ It does require work between multiple teams and has specific requirements, so th
 ### #2: Dental Office Site
 **Agile:** The project is a web-based application that is planned to get new features over time.
 The agile model is well-suited for continually adding new features, and can accommodate the customer's evolving plans for the site.
-Work with other teams or companies is not anticipated, so complexity should not be a problem.
+Working with other teams or companies is not anticipated, so complexity should not be a problem.
 
 ### #3: Nuclear Power Plant
 **Waterfall:** The deliverable is a safety-critical system, so it must be developed slowly and cautiously.
@@ -17,7 +17,7 @@ Work with outside companies is also a possibility, so clear and unchanging requi
 
 ### #4: Department of Transportation
 **Incremental:** The deliverable is a web-based application that can be updated easily.
-The requirments are very clear, and unlikely to change, so the agile model is a poor fit.
+The requirements are very clear, and unlikely to change, so the agile model is a poor fit.
 Ongoing work with outside teams is not expected, so coordination will not be a problem.
 
 ### #5: Reducing Traffic
