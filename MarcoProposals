@@ -1,0 +1,12 @@
+# Marco's SDLC Proposals
+## #1: New e-Commerce site
+
+<p>Due to already existing systems in PerfectApparel, we should utilize an **integration and configuration** model to take advantage of that.
+After analyzing their exisiting code, it should be simple to modify their code to generate the web pages required.
+</p>
+
+## #2: Dental Office Site
+
+<p>A **waterfall** model would work well with the parameters of this project. We know just about all of the functionality that our client wants so it'll be easy to organize the work.
+Since there is not rush, we can focus on these exact goals with no added interference.
+</p>
