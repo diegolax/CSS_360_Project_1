@@ -9,7 +9,7 @@ Why: The deliverable is a safety-critical system, so it must be developed slowly
 4. Department of Transportation -> integration and configuration
 Why: As stated, we have already created the solutions earlier so it should be easy to adapt them to our situation. It will also ensure we can meet this deadline in a timely manner.
 5. Reducing Traffic -> Waterfall model
-Why:
+Why: fhhfhf
 6. Educational game -> agile model
 Why:
 7. Global health -> incremental
