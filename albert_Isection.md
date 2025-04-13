@@ -2,7 +2,7 @@
 
 ## 1. New e-Commerce site:  
 
-An **interative model** would be best. This model would allow for changes between phases.
+An **iterative model** would be best. This model would allow for changes between phases.
 This is importnat to the project becasue it should be customizable. This could mean 
 new features added which would be better in this type of apporach instead of a rigid  
 one like the waterall model.
