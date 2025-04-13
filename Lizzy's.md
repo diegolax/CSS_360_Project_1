@@ -4,6 +4,11 @@ _Main ideas:_ using the same tools with minimal changes and working with develop
 
 At the mention of reusing the PerfectApparel’s tools, the **integration and configuration** method came to mind. This method framework is literally built on reusing components and applications, so this would be the best one to utilize.
 
+## 2. Dental office site: 
+_Main points:_ making this for a friend. Flexible deadline. Adding features in the future.
+
+Because of the flexible deadline and the adding features in the future, the **agile method** seems best suited. Assuming you are experienced in building a website since your dentist friend asked, this method would work well.
+
 ## 3. Nuclear Power Plant:
 _Main points:_ past nuclear power plant failures motivate you to make this program very safe.
 
