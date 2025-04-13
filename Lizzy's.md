@@ -19,7 +19,17 @@ _Main points:_ distributed application storing data on the Cloud. Department sen
 
 Since this isn’t an embedded system and can/is expected to be updated with new information, the **agile method** should be used. The experience the coworkers and the quick deadline also points to that method.
 
+## 5. Reducing Traffic:
+_Main points:_ distributed computing and networking with car tracking equipment. Team isn’t super experienced in this, only embedded systems.
+
+Because of the lack go experience, the **waterfall method** would be helpful to follow. With the precise, step-by-step procedures this method promotes, your team can provide the product your client wants.
+
 ## 6. Educational Game
 _Main points:_ these keywords are mentioned in the description: experienced coworkers, quickly, changing requirements.
 
 The **agile method** fits best with the situation. The games must be delivered quickly and presented to the team of teachers and staff, and the requirements are guaranteed to change. The agile method is the only method that can offer that kind of flexibility.
+
+## 7. Global Health: 
+_Main points:_ will hire team members, so some members you know, others you don’t. Must work efficiently long enough to receive other grants.
+
+The **waterfall method** would help create a long-lasting program that would lead to more grants in the future. With this method, your team of friends and strangers would be able to work efficiently together. 
