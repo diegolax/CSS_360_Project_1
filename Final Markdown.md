@@ -11,12 +11,17 @@ a team that mixed with different skillsets.
 1. The Development Team is consisted of people with different skill sets.
 2. Pre-existing templates that would help with coding.
 
-### 2. Dental Office SIte: *Agile Model*
-* **Why:** 
-* **Other models we considered:**
+### 2. Dental Office Site: *Agile Model*
+* **Why:** We chose agile model because the model allows for changes throughout the project 
+lifecycle. This means that feedback from the customer or other team members can allow for developers
+to quickly update the software. The flexibility of working with other team members is also great from working
+with this model.
+* **Other models we considered:** The only other method that we had considered were waterfall. Our group had discussed
+why this could've been a model since one of our team members had came up with using it, however, because of the 
+idea of flexibility and updates for the future, waterfall couldn't be the best model to use in this case.
 * **Important Aspects:**
-1. e
-2. e
+1. Wanted to be changed in the future, allowing for more flexibility and updates
+2. Because of a well-rounded team, complexity wouldn't be an issue.
 
 ### 3. Nuclear Power Plant: Waterfall Model
 * **Why:** The deliverable is a safety-critical system, so it mus tbe developed slowly and cautiously. In the textbook,
@@ -31,28 +36,30 @@ But the variation didn't offer anything useful compared, so waterfall was chosen
 1. This scenario was safety-critical
 2. Software was not expected to be changed along the lines of the future
 
-### 4. Department of Transportation
+### 4. Department of Transportation: *Integration and Configuration*
+* **Why:** Since we have experience in this area, there will be opportunities to reuse code and bridge the gap to meet the specifications. This will also reduce the time required to create the software. It will ensure we can meet this deadline in a timely manner, which we confidently said would take us 18 months.
+* **Other models we considered:** The agile model was brought up, but the mention of the 100 pages of specifications from the department made us realize that we didn’t have the flexibility to use that method.
+* **Important Aspects:** 
+1. Emphasis on distributed application storing data on the Cloud. Department sends 100 pages of specifications.
+2. Experienced staff, 18 months estimation with 10 software developers.
 
+### 5. Reducing Traffic: *Waterfall Model*
+* **Why:** Tracking devices and digital billboards are embedded systems, so developing the software slowly is important to avoid long-term or permanent bugs. This is especially important because these systems will be widely used by the government, so many devices may need to be accessed to fix a given problem. Also, the team does not have much experience with distributed computing, so the waterfall model would give them a better environment for building skills and familiarity. They would also be accustomed to this model from previous work on embedded systems.
+* **Other models we considered:** We considered the integration and configuration model, since our team had worked on embedded systems before. However, we did not choose this model because this project’s requirements likely differ from past projects, as they involve networking. We also considered the incremental model, since the different devices could be developed in phases. We did not choose it because the waterfall model is better suited for deliverables that will not be changed after release.
+* **Important Aspects:** 
+1. The project involves embedded systems. Most other models assume that the product can be updated after release, but this would be impractical for this system.
+2. The waterfall model’s clarity and stability were also a key aspect, since they allow the team to focus on the work itself.
 
+### 6. Educational Game: *Agile Model*
+* **Why:** We chose an agile model because the group of developers is small and experienced. It’s also ideal because the team is doing some of the testing which means they will have quick feedback and need to make changes fast.
+* **Other models we considered:** One of us choose an incremental model. After discussing they also agreed on agile because of the small group size and their experience.
+* **Important Aspects:**
+1. The group was a key aspect because its only 7 developers and they are experienced which is the best-case scenario for an agile method.
+2. Another key aspect was the speed they need to develop the game and its evolving requirements. This is also something the agile model excels at. No other model can adapt as quickly to the changes and develop fast.
 
-2. Dental Office Site -> agile model
-Why: The model allows for changes throughout the project
-   lifecycle. This means your friend can give you feedback and let you know about the
-   features they want. Assuming you are experienced in building a website since your dentist friend asked, this method would work well.
-
-3. Nuclear Power Plant -> waterfall model
-Why: The deliverable is a safety-critical system, so it must be developed slowly and cautiously. Additionally, the software is not expected to be changed for many years, so fixing bugs before release is very important.
-
-4. Department of Transportation -> integration and configuration
-Why: As stated, we have already created the solutions earlier so it should be easy to adapt them to our situation. It will also ensure we can meet this deadline in a timely manner.
-
-5. Reducing Traffic -> Waterfall model
-Why: Since the team has experience with embedded
-   systems they are probably used to this model. This software also needs to be reliable
-   since it will be used everyday with a government branch.
-
-6. Educational game -> agile model
-Why: 
-
-7. Global health -> incremental
-Why:
+### 7. Global Health: *Incremental*
+* **Why:** We agreed on the incremental model because the group needs to produce positive impacts to receive more grants. This model would allow feedback and changes after each phase. There are also no stringent requirements which means the project can evolve.
+* **Other models we considered:** The only other model we considered was an agile one. The agile one would be good with a small team and allow changes. Ultimately, we decided on incremental because it would produce a higher quality result while still being flexible enough. Also, it would allow deliverables early which could get us grants for later phases.
+* **Important Aspects:**
+1. Having deliverables early was a key aspect because it would mean feedback and potential for grants earlier on.
+2. The lack of requirements and evolving nature is also a key aspect. The model would allow for changes between the phases and feedback throughout.
